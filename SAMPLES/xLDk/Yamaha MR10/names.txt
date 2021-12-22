@@ -1,0 +1,21 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=brush
+01.wav=chihat
+02.wav=cymbal
+03.wav=hitom
+04.wav=kick1
+05.wav=kick2
+06.wav=lowtom
+07.wav=midtom
+08.wav=ohihat
+09.wav=shaker
+10.wav=snare
+11.wav=140bpm_drumloop_001
+12.wav=140bpm_drumloop_002
+13.wav=140bpm_drumloop_003
+14.wav=140bpm_drumloop_004
+15.wav=140bpm_drumloop_005
+
+

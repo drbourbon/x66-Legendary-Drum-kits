@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=crash
+01.wav=hi hat long
+02.wav=hi hat
+03.wav=hi hat2
+04.wav=kick
+05.wav=open hi hat
+06.wav=snare long
+07.wav=snare
+08.wav=sr88_140bpm_loop001
+09.wav=sr88_140bpm_loop002
+10.wav=sr88_140bpm_loop003
+11.wav=sr88_140bpm_loop004
+12.wav=sr88_140bpm_loop005
+
+

@@ -1,0 +1,28 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=ddd1cabasa
+01.wav=ddd1clap
+02.wav=ddd1cow
+03.wav=ddd1crash
+04.wav=ddd1hhcl1
+05.wav=ddd1hhcl2
+06.wav=ddd1hhop1
+07.wav=ddd1hhop2
+08.wav=ddd1kick1
+09.wav=ddd1kick2
+10.wav=ddd1ride
+11.wav=ddd1rim
+12.wav=ddd1snare1
+13.wav=ddd1snare2
+14.wav=ddd1tamb
+15.wav=ddd1tom1
+16.wav=ddd1tom2
+17.wav=ddd1tom3
+18.wav=ddd1_140bpm_001
+19.wav=ddd1_140bpm_002
+20.wav=ddd1_140bpm_003
+21.wav=ddd1_140bpm_004
+22.wav=ddd1_140bpm_005
+
+

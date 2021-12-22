@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=hi hat
+01.wav=kick
+02.wav=open hi hat
+03.wav=snare
+04.wav=tom 1
+05.wav=tom 2
+06.wav=tom 3
+07.wav=tom 4
+08.wav=tom 5
+09.wav=tr66_140bpm_loop001
+10.wav=tr66_140bpm_loop002
+11.wav=tr66_140bpm_loop003
+12.wav=tr66_140bpm_loop004
+13.wav=tr66_140bpm_loop005
+
+

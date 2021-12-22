@@ -1,0 +1,30 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Bdrum1
+01.wav=Bdrum8
+02.wav=Cabasa1
+03.wav=Clap
+04.wav=Cowbell1
+05.wav=Crash1
+06.wav=Hhclose1
+07.wav=Hhopen1
+08.wav=Ridecup
+09.wav=Rimshot1
+10.wav=Snap
+11.wav=Snare1
+12.wav=Snare6
+13.wav=Stick
+14.wav=Tamb
+15.wav=Tomhi1
+16.wav=Tomlow1
+17.wav=Tommid3
+18.wav=Wood1
+19.wav=Wood2
+20.wav=ry30_140bpm_loop001
+21.wav=ry30_140bpm_loop002
+22.wav=ry30_140bpm_loop003
+23.wav=ry30_140bpm_loop004
+24.wav=ry30_140bpm_loop005
+
+

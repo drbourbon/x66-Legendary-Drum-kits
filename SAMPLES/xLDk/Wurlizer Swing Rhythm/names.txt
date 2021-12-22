@@ -1,0 +1,15 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=BD
+01.wav=Cl
+02.wav=HS
+03.wav=LS
+04.wav=OH
+05.wav=wsr_140bpm_loop001
+06.wav=wsr_140bpm_loop002
+07.wav=wsr_140bpm_loop003
+08.wav=wsr_140bpm_loop004
+09.wav=wsr_140bpm_loop005
+
+

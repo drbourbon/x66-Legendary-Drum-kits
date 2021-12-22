@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Tom Clap
+01.wav=Tom Crash
+02.wav=Tom Hat Closed
+03.wav=Tom Kick
+04.wav=Tom Openhat
+05.wav=Tom Snare
+06.wav=Tom Tom1
+07.wav=Tom Tom2
+08.wav=sct_140bpm_loop001
+09.wav=sct_140bpm_loop002
+10.wav=sct_140bpm_loop003
+11.wav=sct_140bpm_loop004
+12.wav=sct_140bpm_loop005
+
+

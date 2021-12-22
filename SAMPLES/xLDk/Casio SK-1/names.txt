@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=sk1_bd
+01.wav=sk1_hhc
+02.wav=sk1_hho
+03.wav=sk1_sd
+04.wav=sk1_sd2
+05.wav=sk1_tomhi
+06.wav=sk1_tomlo
+07.wav=sk1_tommd
+08.wav=casiosk1_140bpm_loop001
+09.wav=casiosk1_140bpm_loop002
+10.wav=casiosk1_140bpm_loop003
+11.wav=casiosk1_140bpm_loop004
+12.wav=casiosk1_140bpm_loop005
+
+

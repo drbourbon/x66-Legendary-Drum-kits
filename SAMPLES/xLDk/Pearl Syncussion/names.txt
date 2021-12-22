@@ -1,0 +1,26 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=syn_1
+01.wav=syn_bd
+02.wav=syn_bd2
+03.wav=syn_bdvibra
+04.wav=syn_bigbd
+05.wav=syn_cl
+06.wav=syn_hit
+07.wav=syn_lcl
+08.wav=syn_lot
+09.wav=syn_mt
+10.wav=syn_r
+11.wav=syn_rs
+12.wav=syn_snare
+13.wav=syn_snare1
+14.wav=synfx
+15.wav=synfx1
+16.wav=SYN_140bpm_loop001
+17.wav=SYN_140bpm_loop002
+18.wav=SYN_140bpm_loop003
+19.wav=SYN_140bpm_loop004
+20.wav=SYN_140bpm_loop005
+
+

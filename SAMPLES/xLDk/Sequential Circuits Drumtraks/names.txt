@@ -1,0 +1,20 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=cabasa
+01.wav=clap
+02.wav=closed hi hat
+03.wav=cowbell
+04.wav=crash
+05.wav=kick
+06.wav=snare
+07.wav=tambourine
+08.wav=tom 1
+09.wav=tom 2
+10.wav=scdt_140bpm_loop001
+11.wav=scdt_140bpm_loop002
+12.wav=scdt_140bpm_loop003
+13.wav=scdt_140bpm_loop004
+14.wav=scdt_140bpm_loop005
+
+

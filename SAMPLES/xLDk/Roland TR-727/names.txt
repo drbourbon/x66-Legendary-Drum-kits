@@ -1,0 +1,21 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=727 CABASA
+01.wav=727 HI BONGO
+02.wav=727 HI TIMBA
+03.wav=727 HM CONGA
+04.wav=727 HO CONGA
+05.wav=727 L
+06.wav=727 LO BONGO
+07.wav=727 LO CONGA
+08.wav=727 LO TIMBA
+09.wav=727 MARACAS
+10.wav=727 QUIJADA
+11.wav=727 S
+12.wav=727 STARCHIM
+13.wav=tr727_140bpm_loop001
+14.wav=tr727_140bpm_loop002
+15.wav=tr727_140bpm_loop003
+16.wav=tr727_140bpm_loop004
+17.wav=tr727_140bpm_loop005

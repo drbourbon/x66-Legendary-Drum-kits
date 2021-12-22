@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=clap
+01.wav=closed hi hat
+02.wav=cymbal
+03.wav=cymbal2
+04.wav=hi tom
+05.wav=kick
+06.wav=lo tom
+07.wav=open hi hat
+08.wav=snare
+09.wav=korgkpr77_140bpm_001
+10.wav=korgkpr77_140bpm_002
+11.wav=korgkpr77_140bpm_003
+12.wav=korgkpr77_140bpm_004
+13.wav=korgkpr77_140bpm_005
+
+

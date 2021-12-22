@@ -1,0 +1,29 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Bdrum1
+01.wav=Bdrum11
+02.wav=Blow1
+03.wav=Clap1
+04.wav=Cowbell1
+05.wav=Crash
+06.wav=Hhclose1
+07.wav=Hhclose2
+08.wav=Hhopen1
+09.wav=Metal1
+10.wav=Metal2
+11.wav=Ride
+12.wav=Rimshot1
+13.wav=Scratch1
+14.wav=Snare1
+15.wav=Snare15
+16.wav=Tomhi1
+17.wav=Tomlow1
+18.wav=Tommid1
+19.wav=emusp12_140bpm_drumloop_001
+20.wav=emusp12_140bpm_drumloop_002
+21.wav=emusp12_140bpm_drumloop_003
+22.wav=emusp12_140bpm_drumloop_004
+23.wav=emusp12_140bpm_drumloop_005
+
+

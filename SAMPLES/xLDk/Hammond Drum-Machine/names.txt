@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=hi hat
+01.wav=hi hat2
+02.wav=kick
+03.wav=open hi hat
+04.wav=open hi hat2
+05.wav=open hi hat3
+06.wav=snare1
+07.wav=snare2
+08.wav=snare3
+09.wav=hammonddrum_140bpm_001
+10.wav=hammonddrum_140bpm_002
+11.wav=hammonddrum_140bpm_003
+12.wav=hammonddrum_140bpm_004
+13.wav=hammonddrum_140bpm_005
+
+

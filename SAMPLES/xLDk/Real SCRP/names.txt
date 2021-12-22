@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Clap_25a
+01.wav=Clap_25e
+02.wav=Clap_25g
+03.wav=Hi_c_24a
+04.wav=Hi_o_24a
+05.wav=Junk_24l
+06.wav=Kick_23g
+07.wav=Kick_23j
+08.wav=Kick_23k
+09.wav=RealSCRP_140bpm_loop001
+10.wav=RealSCRP_140bpm_loop002
+11.wav=RealSCRP_140bpm_loop003
+12.wav=RealSCRP_140bpm_loop004
+13.wav=RealSCRP_140bpm_loop005
+
+

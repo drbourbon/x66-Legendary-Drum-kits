@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=hi hat 2
+01.wav=hi hat
+02.wav=kick 1
+03.wav=kick 2
+04.wav=open snare
+05.wav=rim shot 1
+06.wav=rim shot 2
+07.wav=snare 1
+08.wav=snare 2
+09.wav=snare 3
+10.wav=snare 4
+11.wav=snare 5
+12.wav=bossdrrhytm55_140bpm_001
+13.wav=bossdrrhytm55_140bpm_002
+14.wav=bossdrrhytm55_140bpm_003
+15.wav=bossdrrhytm55_140bpm_004
+16.wav=bossdrrhytm55_140bpm_005
+
+

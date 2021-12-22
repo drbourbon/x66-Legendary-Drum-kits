@@ -1,0 +1,45 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Bdrum1
+01.wav=Bdrum2
+02.wav=Bdrum3
+03.wav=bong
+04.wav=Clap1
+05.wav=Crash
+06.wav=Hhclose1
+07.wav=Hhopen1
+08.wav=hi hat 2
+09.wav=hi hat
+10.wav=Hicabasa
+11.wav=Hitimb
+12.wav=kick 1
+13.wav=kick 2
+14.wav=Locabasa
+15.wav=Lowtimb
+16.wav=Midtimb
+17.wav=open hi hat 2
+18.wav=open hi hat 3
+19.wav=open hi hat
+20.wav=Ridecymb
+21.wav=Rimshot
+22.wav=snare 1
+23.wav=snare 2
+24.wav=Snare1
+25.wav=Snare2
+26.wav=Snare3
+27.wav=Tamb
+28.wav=tom 1
+29.wav=tom 2
+30.wav=tom 3
+31.wav=tom 4
+32.wav=Tomhi
+33.wav=Tomlow
+34.wav=Tommid
+35.wav=DMX_140bpm_loop001
+36.wav=DMX_140bpm_loop002
+37.wav=DMX_140bpm_loop003
+38.wav=DMX_140bpm_loop004
+39.wav=DMX_140bpm_loop005
+
+

@@ -1,0 +1,14 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=clap
+01.wav=closed hi hat
+02.wav=cymbal
+03.wav=kick
+04.wav=open hi hat
+05.wav=snare
+06.wav=bossdr110_140bpm_001
+07.wav=bossdr110_140bpm_002
+08.wav=bossdr110_140bpm_003
+09.wav=bossdr110_140bpm_004
+10.wav=bossdr110_140bpm_005

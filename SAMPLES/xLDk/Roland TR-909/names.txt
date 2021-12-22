@@ -1,0 +1,29 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=909 Clap
+01.wav=909 Crash
+02.wav=909 Hat_closed
+03.wav=909 Hat_med
+04.wav=909 Hat_open
+05.wav=909 Kick_long
+06.wav=909 Kick_short
+07.wav=909 Ride
+08.wav=909 Rim
+09.wav=909 Snare1_1
+10.wav=909 Snare1_2
+11.wav=909 Snare1_3
+12.wav=909 Snare2_1
+13.wav=909 Snare2_2
+14.wav=909 Snare2_3
+15.wav=909 Tom_hi
+16.wav=909 Tom_lo
+17.wav=909 Tom_mid
+18.wav=tr909_140bpm_loop001
+19.wav=tr909_140bpm_loop002
+20.wav=tr909_140bpm_loop003
+21.wav=tr909_140bpm_loop004
+22.wav=tr909_140bpm_loop005
+
+
+

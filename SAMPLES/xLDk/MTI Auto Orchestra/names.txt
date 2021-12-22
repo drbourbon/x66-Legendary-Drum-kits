@@ -1,0 +1,24 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=mtibass
+01.wav=mtibongo
+02.wav=mticchord1
+03.wav=mticchord2
+04.wav=mticchord3
+05.wav=mticchord4
+06.wav=mticlave
+07.wav=mticonga
+08.wav=mticow
+09.wav=mticymb1
+10.wav=mticymb2
+11.wav=mtihh
+12.wav=mtikick
+13.wav=mtisnare
+14.wav=MTIAO_140bpm_loop001
+15.wav=MTIAO_140bpm_loop002
+16.wav=MTIAO_140bpm_loop003
+17.wav=MTIAO_140bpm_loop004
+18.wav=MTIAO_140bpm_loop005
+
+

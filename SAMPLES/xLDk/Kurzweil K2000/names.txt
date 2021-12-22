@@ -1,0 +1,16 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=k2000_kick
+01.wav=k2000_hh
+02.wav=k2000_hh2
+03.wav=k2000_shaker
+04.wav=k2000_snare
+05.wav=k2000_snare2
+06.wav=k2000_140bpm_loop001
+07.wav=k2000_140bpm_loop002
+08.wav=k2000_140bpm_loop003
+09.wav=k2000_140bpm_loop004
+10.wav=k2000_140bpm_loop005
+
+

@@ -1,0 +1,40 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=China Cymbal
+01.wav=Claves
+02.wav=Closed Hat
+03.wav=Cowbell
+04.wav=Crash Cymbal
+05.wav=Cup Cymbal
+06.wav=Handclap
+07.wav=Hi Agogo
+08.wav=Hi Timbale
+09.wav=Hi Tom A
+10.wav=Hi Tom B
+11.wav=Kick A
+12.wav=Kick B
+13.wav=Lo Agogo
+14.wav=Lo Conga
+15.wav=Lo Timbale
+16.wav=Low Tom A
+17.wav=Low Tom B
+18.wav=Mid Tom A
+19.wav=Mid Tom B
+20.wav=Mute Hi Conga
+21.wav=Open Hat
+22.wav=Open Hi Conga
+23.wav=Ride Cymbal
+24.wav=Rimshot
+25.wav=Shaker
+26.wav=Snare A
+27.wav=Snare B
+28.wav=Snare C
+29.wav=Tamborine
+30.wav=tr626_140bpm_loop001
+31.wav=tr626_140bpm_loop002
+32.wav=tr626_140bpm_loop003
+33.wav=tr626_140bpm_loop004
+34.wav=tr626_140bpm_loop005
+
+

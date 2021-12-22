@@ -1,0 +1,38 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=cabasawav
+01.wav=clap
+02.wav=conga1
+03.wav=conga2
+04.wav=conga3
+05.wav=conga4
+06.wav=conga5
+07.wav=conga6
+08.wav=cowbell
+09.wav=crashwav
+10.wav=hi hat1
+11.wav=hi hat2
+12.wav=hi hat3
+13.wav=kick
+14.wav=kick2
+15.wav=ride
+16.wav=rim shot
+17.wav=rim shot2
+18.wav=snare
+19.wav=snare2
+20.wav=snare3
+21.wav=snare4
+22.wav=tamb
+23.wav=tom hi
+24.wav=tom llow
+25.wav=tom lo
+26.wav=tom mid
+27.wav=tom
+28.wav=LD_140bpm_loop001
+29.wav=LD_140bpm_loop002
+30.wav=LD_140bpm_loop003
+31.wav=LD_140bpm_loop004
+32.wav=LD_140bpm_loop005
+
+

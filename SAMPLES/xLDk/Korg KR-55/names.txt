@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=closed hi hat
+01.wav=conga
+02.wav=cowbell
+03.wav=cymbal
+04.wav=kick
+05.wav=open hi hat
+06.wav=snare
+07.wav=tom
+08.wav=korgkr55_140bpm_loop001
+09.wav=korgkr55_140bpm_loop002
+10.wav=korgkr55_140bpm_loop003
+11.wav=korgkr55_140bpm_loop004
+12.wav=korgkr55_140bpm_loop005
+
+

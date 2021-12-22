@@ -1,0 +1,25 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=BASS
+01.wav=CHAT
+02.wav=CL1
+03.wav=KLAP
+04.wav=KO1
+05.wav=KONGA11
+06.wav=KONGA2
+07.wav=LAVE
+08.wav=LO1
+09.wav=OHAT
+10.wav=RIDE
+11.wav=SN1
+12.wav=SSTK
+13.wav=TI1
+14.wav=TOM
+15.wav=CR1000_140bpm_loop001
+16.wav=CR1000_140bpm_loop002
+17.wav=CR1000_140bpm_loop003
+18.wav=CR1000_140bpm_loop004
+19.wav=CR1000_140bpm_loop005
+
+

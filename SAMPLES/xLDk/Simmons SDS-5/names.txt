@@ -1,0 +1,29 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=sds5kick10
+01.wav=sds5kick1b
+02.wav=sds5kick40
+03.wav=sds5kick90
+04.wav=sds5kicknoise0
+05.wav=sds5sn10
+06.wav=sds5sn20
+07.wav=sds5sn40
+08.wav=sds5sn50
+09.wav=sds5sn60
+10.wav=sds5sn70
+11.wav=sds5sn80
+12.wav=sds5tom10
+13.wav=sds5tom20
+14.wav=sds5tom50
+15.wav=sds5tom60
+16.wav=sds5tom70
+17.wav=sds5tom80
+18.wav=sds5tom90
+19.wav=sds5_140bpm_loop001
+20.wav=sds5_140bpm_loop002
+21.wav=sds5_140bpm_loop003
+22.wav=sds5_140bpm_loop004
+23.wav=sds5_140bpm_loop005
+
+

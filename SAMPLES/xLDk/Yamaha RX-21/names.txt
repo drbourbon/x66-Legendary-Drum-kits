@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=CC-RX21
+01.wav=CL-RX21
+02.wav=HC-RX21
+03.wav=HO-RX21
+04.wav=KI-RX21
+05.wav=SN-RX21
+06.wav=TM-RX211
+07.wav=TM-RX212
+08.wav=TM-RX213
+09.wav=rx21_140bpm_loop001
+10.wav=rx21_140bpm_loop002
+11.wav=rx21_140bpm_loop003
+12.wav=rx21_140bpm_loop004
+13.wav=rx21_140bpm_loop005
+
+

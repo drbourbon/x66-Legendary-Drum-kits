@@ -1,0 +1,24 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=bong
+01.wav=hi hat 2
+02.wav=hi hat
+03.wav=kick 1
+04.wav=kick 2
+05.wav=open hi hat 2
+06.wav=open hi hat 3
+07.wav=open hi hat
+08.wav=snare 1
+09.wav=snare 2
+10.wav=tom 1
+11.wav=tom 2
+12.wav=tom 3
+13.wav=tom 4
+14.wav=RhythmAce_140bpm_loop001
+15.wav=RhythmAce_140bpm_loop002
+16.wav=RhythmAce_140bpm_loop003
+17.wav=RhythmAce_140bpm_loop004
+18.wav=RhythmAce_140bpm_loop005
+
+

@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=220_cabasa
+01.wav=220_cowbell
+02.wav=220_hi_agogo
+03.wav=220_hi_conga
+04.wav=220_lo_agogo
+05.wav=220_lo_conga
+06.wav=220_timbale
+07.wav=220_woodblock
+08.wav=ddm220_140bpm_loop001
+09.wav=ddm220_140bpm_loop002
+10.wav=ddm220_140bpm_loop003
+11.wav=ddm220_140bpm_loop004
+12.wav=ddm220_140bpm_loop005
+
+

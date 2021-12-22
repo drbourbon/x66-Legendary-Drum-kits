@@ -1,0 +1,40 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=XE8 Block 1 ext_14
+01.wav=XE8 Block 2 ext_15
+02.wav=XE8 Clap int_15
+03.wav=XE8 Cowbell 1 ext_12
+04.wav=XE8 Cowbell 2 ext_13
+05.wav=XE8 Crack int_16
+06.wav=XE8 Crash ext_11
+07.wav=XE8 Crash int_13
+08.wav=XE8 ElectroTom int_4
+09.wav=XE8 Hat Closed ext_4
+10.wav=XE8 Hat Closed int_5
+11.wav=XE8 Hat Medium int_6
+12.wav=XE8 Hat Open ext_5
+13.wav=XE8 Hat Open int_7
+14.wav=XE8 Kick 1 int_1
+15.wav=XE8 Kick 2 int_2
+16.wav=XE8 Kick 3 int_3
+17.wav=XE8 Kick ext_1
+18.wav=XE8 Orch ext_16
+19.wav=XE8 Ride ext_10
+20.wav=XE8 Ride int_14
+21.wav=XE8 Sidestick ext_3
+22.wav=XE8 Snare 1 int_8
+23.wav=XE8 Snare 2 int_9
+24.wav=XE8 Snare 3 int_10
+25.wav=XE8 Snare ext_2
+26.wav=XE8 Tom 1 ext_6
+27.wav=XE8 Tom 2 ext_7
+28.wav=XE8 Tom 3 ext_8
+29.wav=XE8 Tom 4 ext_9
+30.wav=XE8 Tom High int_12
+31.wav=XE8 Tom Low int_11
+32.wav=akaixe8_140bpm_loop001
+33.wav=akaixe8_140bpm_loop002
+34.wav=akaixe8_140bpm_loop003
+35.wav=akaixe8_140bpm_loop004
+36.wav=akaixe8_140bpm_loop005

@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=ddm-bd
+01.wav=ddm-ch
+02.wav=ddm-cp
+03.wav=ddm-cy
+04.wav=ddm-ht
+05.wav=ddm-lt
+06.wav=ddm-oh
+07.wav=ddm-rs
+08.wav=ddm-sd
+09.wav=korgddm110_140bpm_001
+10.wav=korgddm110_140bpm_002
+11.wav=korgddm110_140bpm_003
+12.wav=korgddm110_140bpm_004
+13.wav=korgddm110_140bpm_005
+
+

@@ -1,0 +1,21 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=DR220_bd
+01.wav=DR220_ccy
+02.wav=DR220_ch
+03.wav=DR220_hcp
+04.wav=DR220_ht
+05.wav=DR220_lt
+06.wav=DR220_mt
+07.wav=DR220_oh
+08.wav=DR220_rcy
+09.wav=DR220_rim
+10.wav=DR220_sd
+11.wav=bossdr220_140bpm_001
+12.wav=bossdr220_140bpm_002
+13.wav=bossdr220_140bpm_003
+14.wav=bossdr220_140bpm_004
+15.wav=bossdr220_140bpm_005
+
+

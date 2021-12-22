@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=MXR Claps
+01.wav=MXR Cowbell
+02.wav=MXR Crash
+03.wav=MXR Hat_closed
+04.wav=MXR Hat_open
+05.wav=MXR Kick
+06.wav=MXR Rimshot
+07.wav=MXR Snare
+08.wav=MXR Tom 1
+09.wav=MXR Tom 2
+10.wav=MXR Tom 3
+11.wav=MXR woodblock
+12.wav=MXR_140bpm_loop001
+13.wav=MXR_140bpm_loop002
+14.wav=MXR_140bpm_loop003
+15.wav=MXR_140bpm_loop004
+16.wav=MXR_140bpm_loop005
+
+

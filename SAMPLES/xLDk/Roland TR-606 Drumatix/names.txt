@@ -1,0 +1,24 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=606bass
+01.wav=606bassacc
+02.wav=606chat
+03.wav=606chatacc
+04.wav=606cymbal
+05.wav=606cymbalacc
+06.wav=606htom
+07.wav=606htomacc
+08.wav=606ltom
+09.wav=606ltomacc
+10.wav=606ohat
+11.wav=606ohatacc
+12.wav=606snare
+13.wav=606snareacc
+14.wav=tr606_140bpm_loop001
+15.wav=tr606_140bpm_loop002
+16.wav=tr606_140bpm_loop003
+17.wav=tr606_140bpm_loop004
+18.wav=tr606_140bpm_loop005
+
+

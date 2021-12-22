@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=rz-1-clap
+01.wav=rz1-cowbell
+02.wav=rz1-crash
+03.wav=rz1-hihatclosed
+04.wav=rz1-hihatopen
+05.wav=rz1-kick
+06.wav=rz1-ride
+07.wav=rz1-snare
+08.wav=rz1-stick
+09.wav=rz1-tom1
+10.wav=rz1-tom2
+11.wav=rz1-tom3
+12.wav=CasioRZ1_drumloop140_001
+13.wav=CasioRZ1_drumloop140_002
+14.wav=CasioRZ1_drumloop140_003
+15.wav=CasioRZ1_drumloop140_004
+16.wav=CasioRZ1_drumloop140_005
+
+

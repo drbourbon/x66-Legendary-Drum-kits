@@ -1,0 +1,28 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=sakata bongo
+01.wav=sakata cabasa
+02.wav=sakata clap
+03.wav=sakata conga1
+04.wav=sakata conga2
+05.wav=sakata Cow
+06.wav=sakata Crash
+07.wav=sakata HHcl
+08.wav=sakata HHop
+09.wav=sakata Kick1
+10.wav=sakata Kick2
+11.wav=sakata Kick3
+12.wav=sakata Ride
+13.wav=sakata Snare
+14.wav=sakata Tom1
+15.wav=sakata Tom2
+16.wav=sakata Tom3
+17.wav=sakata Tom4
+18.wav=dpm48_140bpm_loop001
+19.wav=dpm48_140bpm_loop002
+20.wav=dpm48_140bpm_loop003
+21.wav=dpm48_140bpm_loop004
+22.wav=dpm48_140bpm_loop005
+
+

@@ -1,0 +1,34 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=BNGO1
+01.wav=CLAP
+02.wav=CLHH
+03.wav=CNGA1
+04.wav=CNGA2
+05.wav=COW
+06.wav=CRASH
+07.wav=ETOM1
+08.wav=HIT
+09.wav=KICK1
+10.wav=KICK2
+11.wav=KICK3
+12.wav=NOISE
+13.wav=OHH
+14.wav=RIDE
+15.wav=SAKER
+16.wav=SN1
+17.wav=SN2
+18.wav=SN3
+19.wav=STICK
+20.wav=TOM1
+21.wav=TOM2
+22.wav=TOM3
+23.wav=ZAP
+24.wav=s440_140bpm_loop001
+25.wav=s440_140bpm_loop002
+26.wav=s440_140bpm_loop003
+27.wav=s440_140bpm_loop004
+28.wav=s440_140bpm_loop005
+
+

@@ -1,0 +1,15 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=mr12_140bpm_loop001
+01.wav=mr12_140bpm_loop002
+02.wav=mr12_140bpm_loop003
+03.wav=mr12_140bpm_loop004
+04.wav=mr12_140bpm_loop005
+05.wav=UNIVOXb1
+06.wav=UNIVOXbd
+07.wav=UNIVOXch
+08.wav=UNIVOXoh
+09.wav=UNIVOXsd
+
+

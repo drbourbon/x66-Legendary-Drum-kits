@@ -1,0 +1,27 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=clap
+01.wav=clip
+02.wav=cowbell
+03.wav=hi conga 1
+04.wav=hi conga 2
+05.wav=hi hat
+06.wav=kick 1
+07.wav=kick 2
+08.wav=kick 3
+09.wav=lo conga 2
+10.wav=lo conga
+11.wav=med conga 2
+12.wav=med conga
+13.wav=open hi hat 2
+14.wav=open hi hat 3
+15.wav=open hi hat
+16.wav=snare 1
+17.wav=cr8000_140bpm_loop001
+18.wav=cr8000_140bpm_loop002
+19.wav=cr8000_140bpm_loop003
+20.wav=cr8000_140bpm_loop004
+21.wav=cr8000_140bpm_loop005
+
+

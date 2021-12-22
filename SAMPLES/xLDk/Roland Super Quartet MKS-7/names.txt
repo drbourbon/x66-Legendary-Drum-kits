@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=mks_lotom
+01.wav=mks_ohat
+02.wav=mks_ride
+03.wav=mks_rim
+04.wav=mks_snare
+05.wav=mks_tom
+06.wav=mks7_bass
+07.wav=mks7_chat
+08.wav=mks7_chat2
+09.wav=mks7_clap
+10.wav=mks7_crash
+11.wav=mks7_hitom
+12.wav=mks7_140bpm_loop001
+13.wav=mks7_140bpm_loop002
+14.wav=mks7_140bpm_loop003
+15.wav=mks7_140bpm_loop004
+16.wav=mks7_140bpm_loop005
+
+

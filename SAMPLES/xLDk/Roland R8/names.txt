@@ -1,0 +1,51 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=BD0
+01.wav=BD20
+02.wav=BD30
+03.wav=Bdrum1
+04.wav=Bdrum4
+05.wav=Cabasa0
+06.wav=Cabasa1
+07.wav=Clap
+08.wav=Clap0
+09.wav=Claps0
+10.wav=ClosedHH0
+11.wav=CloseHH0
+12.wav=Cowbell
+13.wav=Cowbell0
+14.wav=Crash1
+15.wav=Crash10
+16.wav=Hhclose1
+17.wav=Hhopen1
+18.wav=Hitom1
+19.wav=Lowtom1
+20.wav=Metal
+21.wav=Midtom2
+22.wav=Open HH0
+23.wav=OpenHH0
+24.wav=Ride0
+25.wav=Ride1
+26.wav=Rim0
+27.wav=Rimshot1
+28.wav=SD 20
+29.wav=SD0
+30.wav=SD20
+31.wav=SD30
+32.wav=Snare1
+33.wav=Snare5
+34.wav=Tamb0
+35.wav=Tom Hi0
+36.wav=Tom Lo0
+37.wav=Tom Mi0
+38.wav=Trill
+39.wav=Wood
+40.wav=Wood0
+41.wav=R8_140bpm_loop001
+42.wav=R8_140bpm_loop002
+43.wav=R8_140bpm_loop003
+44.wav=R8_140bpm_loop004
+45.wav=R8_140bpm_loop005
+
+

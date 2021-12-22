@@ -1,0 +1,32 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=808 Clap
+01.wav=808 Clave
+02.wav=808 Cowbell
+03.wav=808 Cymbal_low
+04.wav=808 Cymbal-high
+05.wav=808 Hat_closed
+06.wav=808 hat_medium
+07.wav=808 hat_open
+08.wav=808 Hi Conga
+09.wav=808 Hi Tom
+10.wav=808 Kick_long
+11.wav=808 Kick_short
+12.wav=808 Lo Conga
+13.wav=808 Lo Tom
+14.wav=808 Maracas
+15.wav=808 Md Conga
+16.wav=808 Md Tom
+17.wav=808 Rimshot
+18.wav=808 Snare_hi1
+19.wav=808 Snare_hi2
+20.wav=808 Snare_hi3
+21.wav=808 Snare_lo1
+22.wav=808 Snare_lo2
+23.wav=808 Snare_lo3
+24.wav=tr808_140bpm_loop001
+25.wav=tr808_140bpm_loop002
+26.wav=tr808_140bpm_loop003
+27.wav=tr808_140bpm_loop004
+28.wav=tr808_140bpm_loop005

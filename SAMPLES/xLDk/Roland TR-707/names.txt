@@ -1,0 +1,23 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=BassDrum1
+01.wav=BassDrum2
+02.wav=CowBell
+03.wav=Crash
+04.wav=HandClap
+05.wav=HhC
+06.wav=HhO
+07.wav=HiTom
+08.wav=LowTom
+09.wav=MedTom
+10.wav=Ride
+11.wav=RimShot
+12.wav=Snare1
+13.wav=Snare2
+14.wav=Tamb
+15.wav=tr707_140bpm_loop001
+16.wav=tr707_140bpm_loop002
+17.wav=tr707_140bpm_loop003
+18.wav=tr707_140bpm_loop004
+19.wav=tr707_140bpm_loop005

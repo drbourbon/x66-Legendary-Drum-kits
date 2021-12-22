@@ -1,0 +1,19 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=fricke_140bpm_loop001
+01.wav=fricke_140bpm_loop002
+02.wav=fricke_140bpm_loop003
+03.wav=fricke_140bpm_loop004
+04.wav=fricke_140bpm_loop005
+05.wav=mfb_cl_hat
+06.wav=mfb_clap
+07.wav=mfb_cymbal
+08.wav=mfb_hitom
+09.wav=mfb_kick
+10.wav=mfb_lo_tom
+11.wav=mfb_mid_tom
+12.wav=mfb_op_hat
+13.wav=mfb_snare
+
+

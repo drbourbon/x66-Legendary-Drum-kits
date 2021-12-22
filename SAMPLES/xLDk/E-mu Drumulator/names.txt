@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=drumulatorChh
+01.wav=drumulatorClap
+02.wav=drumulatorClave
+03.wav=drumulatorCowbell
+04.wav=drumulatorCymbal
+05.wav=drumulatorKick1
+06.wav=drumulatorOhh
+07.wav=drumulatorRim
+08.wav=drumulatorSnare
+09.wav=drumulatorTom1
+10.wav=drumulatorTom2
+11.wav=drumulatorTom3
+12.wav=emud_140bpm_loop001
+13.wav=emud_140bpm_loop002
+14.wav=emud_140bpm_loop003
+15.wav=emud_140bpm_loop004
+16.wav=emud_140bpm_loop005
+
+

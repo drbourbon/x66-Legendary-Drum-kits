@@ -1,0 +1,28 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Bdrum1
+01.wav=Bdrum3
+02.wav=Cowbell
+03.wav=Hhclose1
+04.wav=Hhopen1
+05.wav=Hhopen3
+06.wav=Hhpedal1
+07.wav=Reversed
+08.wav=Rimshot
+09.wav=Seq1
+10.wav=Seq2
+11.wav=Snare1
+12.wav=Snare2
+13.wav=Tom1
+14.wav=Tom3
+15.wav=Tom7
+16.wav=Wood1
+17.wav=Wood2
+18.wav=viscospacedrum_140bpm_loop001
+19.wav=viscospacedrum_140bpm_loop002
+20.wav=viscospacedrum_140bpm_loop003
+21.wav=viscospacedrum_140bpm_loop004
+22.wav=viscospacedrum_140bpm_loop005
+
+

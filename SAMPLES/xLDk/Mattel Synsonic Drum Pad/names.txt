@@ -1,0 +1,18 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Mattel  Snare
+01.wav=Mattel  Tom VHigh
+02.wav=Mattel Cymbal
+03.wav=Mattel Hi-Hat
+04.wav=Mattel Kick
+05.wav=Mattel Tom High
+06.wav=Mattel Tom Low
+07.wav=Mattel Tom VLow
+08.wav=Mattel_140bpm_loop001
+09.wav=Mattel_140bpm_loop002
+10.wav=Mattel_140bpm_loop003
+11.wav=Mattel_140bpm_loop004
+12.wav=Mattel_140bpm_loop005
+
+

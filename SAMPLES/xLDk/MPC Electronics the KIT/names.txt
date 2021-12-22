@@ -1,0 +1,17 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=bass
+01.wav=cymbal
+02.wav=cymbaltone
+03.wav=hh
+04.wav=hitom
+05.wav=lotom
+06.wav=snare
+07.wav=KIT_140bpm_loop001
+08.wav=KIT_140bpm_loop002
+09.wav=KIT_140bpm_loop003
+10.wav=KIT_140bpm_loop004
+11.wav=KIT_140bpm_loop005
+
+

@@ -1,0 +1,22 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=kick
+01.wav=open hi hat
+02.wav=snare 1
+03.wav=snare 2
+04.wav=tom 1
+05.wav=tom 2
+06.wav=tom 3
+07.wav=tom 4
+08.wav=hi hat
+09.wav=bongo 1
+10.wav=bongo 2
+11.wav=bongo 3
+12.wav=hohnerRhythm80_140bpm_looo001
+13.wav=hohnerRhythm80_140bpm_looo002
+14.wav=hohnerRhythm80_140bpm_looo003
+15.wav=hohnerRhythm80_140bpm_looo004
+16.wav=hohnerRhythm80_140bpm_looo005
+
+

@@ -1,0 +1,33 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=Bdrum1
+01.wav=Cowbell
+02.wav=Hhclose1
+03.wav=Hhclose2
+04.wav=Hhopen1
+05.wav=Hhopen2
+06.wav=Hiconga
+07.wav=Hit
+08.wav=Lowconga
+09.wav=Midconga
+10.wav=Quid1
+11.wav=Quid2
+12.wav=Quid3
+13.wav=Quid4
+14.wav=Snare1
+15.wav=Tamb1
+16.wav=Tamb2
+17.wav=Tamb3
+18.wav=Tamb4
+19.wav=Wood1
+20.wav=Wood2
+21.wav=Wood3
+22.wav=Wood4
+23.wav=RolandCompuRhythm78_140bpm_001
+24.wav=RolandCompuRhythm78_140bpm_002
+25.wav=RolandCompuRhythm78_140bpm_003
+26.wav=RolandCompuRhythm78_140bpm_004
+27.wav=RolandCompuRhythm78_140bpm_005
+
+

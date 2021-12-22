@@ -1,0 +1,26 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=bass drum 505
+01.wav=closed hi-hat 505
+02.wav=crash cymbal 505
+03.wav=hand clap 505
+04.wav=hi conga 505
+05.wav=hi cowbell 505
+06.wav=hi tom 505
+07.wav=low conga 505
+08.wav=low cowbell 505
+09.wav=low tom 505
+10.wav=mid tom 505
+11.wav=open hi-hat 505
+12.wav=ride cymbal 505
+13.wav=rim shot 505
+14.wav=snare drum 505
+15.wav=timbale 505
+16.wav=tr505_140bpm_loop001
+17.wav=tr505_140bpm_loop002
+18.wav=tr505_140bpm_loop003
+19.wav=tr505_140bpm_loop004
+20.wav=tr505_140bpm_loop005
+
+

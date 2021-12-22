@@ -1,0 +1,37 @@
+[ES1 banks]
+
+[ES1 samples]
+00.wav=RX11 BD1
+01.wav=RX11 BD2
+02.wav=RX11 BD3
+03.wav=RX11 CLAP1
+04.wav=RX11 CLAP2
+05.wav=RX11 CLHAT1
+06.wav=RX11 CLHAT2
+07.wav=RX11 COW1
+08.wav=RX11 COW2
+09.wav=RX11 CRASH
+10.wav=RX11 HEVY SN
+11.wav=RX11 LITE SN
+12.wav=RX11 MED  SN
+13.wav=RX11 OPHAT1
+14.wav=RX11 OPHAT2
+15.wav=RX11 RIDE
+16.wav=RX11 RIM1
+17.wav=RX11 RIM2
+18.wav=RX11 SHAKER
+19.wav=RX11 SNR 1
+20.wav=RX11 SNR 2
+21.wav=RX11 SNR 3
+22.wav=RX11 SNR 4
+23.wav=RX11 SNR 5
+24.wav=RX11 TOM1
+25.wav=RX11 TOM2
+26.wav=RX11 TOM3
+27.wav=rx11_140bpm_loop001
+28.wav=rx11_140bpm_loop002
+29.wav=rx11_140bpm_loop003
+30.wav=rx11_140bpm_loop004
+31.wav=rx11_140bpm_loop005
+
+
